@@ -1,5 +1,9 @@
 # Smooth Scroll (SMOOTH_SCROLL)
 
+<p align="center">
+ <img width="400PX" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/repo_projects/SMOOTH_SCROLL.gif">
+</p>
+
 ## Overview
 `SMOOTH_SCROLL` is a JavaScript function that enables smooth scrolling using **linear interpolation (LERP)** for a more fluid scrolling experience. It works by continuously adjusting the scroll position over time, creating a soft, animated effect.
 
